@@ -42,7 +42,7 @@ CREATE TABLE "Titles" (
 
 );
 
--- Adding Primary keys to tables
+-- Adding Primary keys to Employee and Title tables
 
 ALTER TABLE "Employees" ADD CONSTRAINT "pk_Employees" PRIMARY KEY (
         "emp_no"
