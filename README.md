@@ -23,7 +23,7 @@ The following were done;
 - Accurately defined value length for columns 
 
 ## Data Analysis 
-Created queries for the following questions asked
+Created queries for the following questions asked;
 
 1. List the employee number, last name, first name, sex, and salary of each employee 
 2. List the first name, last name, and hire date for the employees who were hired in 1986
