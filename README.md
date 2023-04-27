@@ -7,7 +7,7 @@ Beiong hired as a new data engineer at Pewlett Hackard (a fictional company). Th
 For this project, I designed tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then answered questions about the data. That is, you’ll perform data modeling, data engineering, and data analysis, respectively.
 
 ## Data Modeling
-Entity Relationship Diagram (ERD) of the tables: Created an ERD and also exported a table sechema that i used to create all the tables.
+Entity Relationship Diagram (ERD) of the tables: I  Created an ERD and also exported a table sechema that i used to create all the tables.
 
 ![ERD](https://user-images.githubusercontent.com/124645643/234474369-260ce836-d186-450c-bc05-0b0ea27745e7.png)
 
